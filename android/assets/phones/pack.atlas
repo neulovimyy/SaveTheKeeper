@@ -1,0 +1,300 @@
+
+pack.png
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Fog01
+  rotate: false
+  xy: 2, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog02
+  rotate: false
+  xy: 73, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog03
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog04
+  rotate: false
+  xy: 21, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog05
+  rotate: false
+  xy: 73, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog06
+  rotate: false
+  xy: 92, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog07
+  rotate: false
+  xy: 21, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog08
+  rotate: false
+  xy: 40, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog09
+  rotate: false
+  xy: 73, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog10
+  rotate: false
+  xy: 92, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog11
+  rotate: false
+  xy: 111, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog12
+  rotate: false
+  xy: 40, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog13
+  rotate: false
+  xy: 92, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog14
+  rotate: false
+  xy: 111, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog15
+  rotate: false
+  xy: 130, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fog16
+  rotate: false
+  xy: 111, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Fogtiles
+  rotate: false
+  xy: 2, 40
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Maptile04
+  rotate: false
+  xy: 130, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile05
+  rotate: false
+  xy: 149, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile06
+  rotate: false
+  xy: 130, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile07
+  rotate: false
+  xy: 149, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile08
+  rotate: false
+  xy: 168, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile09
+  rotate: false
+  xy: 149, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile10
+  rotate: false
+  xy: 168, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile11
+  rotate: false
+  xy: 187, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile12
+  rotate: false
+  xy: 168, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile13
+  rotate: false
+  xy: 187, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile14
+  rotate: false
+  xy: 206, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile15
+  rotate: false
+  xy: 187, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile16
+  rotate: false
+  xy: 206, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile17
+  rotate: false
+  xy: 225, 92
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile18
+  rotate: false
+  xy: 206, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile19
+  rotate: false
+  xy: 225, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile20
+  rotate: false
+  xy: 225, 54
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile21
+  rotate: false
+  xy: 59, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile22
+  rotate: false
+  xy: 59, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile23
+  rotate: false
+  xy: 78, 35
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile24
+  rotate: false
+  xy: 78, 16
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile25
+  rotate: false
+  xy: 97, 35
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile26
+  rotate: false
+  xy: 97, 16
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile27
+  rotate: false
+  xy: 116, 35
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Maptile28
+  rotate: false
+  xy: 116, 16
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
